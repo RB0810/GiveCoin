@@ -1,6 +1,8 @@
 # givecoin-dapp
 
-### How to Run
+Video Demo: https://youtu.be/aMy3NtHn50g
+
+### How to Run Locally
 
 1. Download the project
 2. In your terminal type `npm install -g truffle` (assuming you have node.js installed).
